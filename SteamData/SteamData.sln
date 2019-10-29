@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamData.WebAPI", "SteamDa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamAPI", "SteamAPI\SteamAPI.csproj", "{FBEBEF02-6538-4707-8EFD-3EE3F95EA7B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvilRabbot.Data", "EvilRabbot.Data\EvilRabbot.Data.csproj", "{BAF221DD-6EFC-4F6E-9191-371414BD018B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvilRabbot.Bot", "EvilRabbot.Bot\EvilRabbot.Bot.csproj", "{33492C6E-D3A9-4F39-BCCA-25A6DD7385A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{FBEBEF02-6538-4707-8EFD-3EE3F95EA7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBEBEF02-6538-4707-8EFD-3EE3F95EA7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBEBEF02-6538-4707-8EFD-3EE3F95EA7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF221DD-6EFC-4F6E-9191-371414BD018B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF221DD-6EFC-4F6E-9191-371414BD018B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF221DD-6EFC-4F6E-9191-371414BD018B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF221DD-6EFC-4F6E-9191-371414BD018B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33492C6E-D3A9-4F39-BCCA-25A6DD7385A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33492C6E-D3A9-4F39-BCCA-25A6DD7385A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33492C6E-D3A9-4F39-BCCA-25A6DD7385A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33492C6E-D3A9-4F39-BCCA-25A6DD7385A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
